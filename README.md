@@ -3,7 +3,7 @@ AndroidIDE is an IDE for Android to develop full featured Android apps on Androi
 
 This repository is used to manage issues, feature requests and discussions related to [AndroidIDE](https://androidide.com).
 
-You should report bugs and suggest features/enhancements [here](https://github.com/itsaky/AndroidIDE/issues)
+You should report bugs and suggest features/enhancements [here](https://github.com/itsaky/AndroidIDE/issues).
 Describe the issue/request briefly. Provide steps to reproduce the issue. If you need any help, you should discuss it [here](https://github.com/itsaky/AndroidIDE/discussions).
 
 Use [discussions](https://github.com/itsaky/AndroidIDE/discussions) to discuss any ideas, features or to ask any questions related to AndroidIDE. 
@@ -26,7 +26,11 @@ More features will be implemented as we continue to develop this app.
 
 The app is still being developed actively. It's in beta stage and may not be stable. if you have any issues using the app, please let us know.
 
+### About Developers
+- Akash Yadav (**@itsaky**)
+- Marvin Stelter (**@MarvinStelter**)
+
 ### Contact Us
-- Visit AndroidIDE [website](https://androidide.com)
-- Join us on [Telegram](https://t.me/androidide_discussions)
-- [Email us](mailto:contact@androidide.com)
+- [Website](https://androidide.com)
+- [Telegram](https://t.me/androidide_discussions)
+- [Email](mailto:contact@androidide.com)
