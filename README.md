@@ -16,6 +16,7 @@ Use [discussions](https://github.com/itsaky/AndroidIDE/discussions) to discuss a
 More features will be implemented as we continue to develop this app.
 
 ### Features to be implemented
+- [ ] Enhanced Java Auto Complete
 - [ ] UI Designer
 - [ ] Layout Inspector
 - [ ] String Translator
