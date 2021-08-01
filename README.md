@@ -28,8 +28,8 @@ More features will be implemented as we continue to develop this app.
 The app is still being developed actively. It's in beta stage and may not be stable. if you have any issues using the app, please let us know.
 
 ### About Developers
-- Akash Yadav (**@itsaky**)
-- Marvin Stelter (**@MarvinStelter**)
+- Akash Yadav ([**@itsaky**](https://github.com/itsaky))
+- Marvin Stelter ([**@MarvinStelter**](https://github.com/MarvinStelter))
 
 ### Contact Us
 - [Website](https://androidide.com)
