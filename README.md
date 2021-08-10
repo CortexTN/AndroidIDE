@@ -4,9 +4,12 @@ AndroidIDE is an IDE for Android to develop full featured Android apps on Androi
 This repository is used to manage issues, feature requests and discussions related to [AndroidIDE](https://androidide.com).
 
 You should report bugs and suggest features/enhancements [here](https://github.com/itsaky/AndroidIDE/issues).
-Describe the issue/request briefly. Provide steps to reproduce the issue. If you need any help, you should discuss it [here](https://github.com/itsaky/AndroidIDE/discussions).
+Describe the issue/request briefly. Provide steps to reproduce the issue. If you need any help, you should discuss it [here](https://t.me/androidide_discussions).
 
-Use [discussions](https://github.com/itsaky/AndroidIDE/discussions) to discuss any ideas, features or to ask any questions related to AndroidIDE. 
+If you open a build related issue, please provide these details:
+- Device model
+- Android Version
+- Full build output
 
 ### Main Features
 - Supports Gradle
