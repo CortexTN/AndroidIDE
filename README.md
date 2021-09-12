@@ -25,10 +25,16 @@ More features will be implemented as we continue to develop this app.
 - [ ] String Translator
 - [ ] Asset Studio (Drawable & Icon Maker)
 - [ ] Git
-- [ ] Terminal
+- [x] Terminal
 - [ ] SDK Manager
 
 The app is still being developed actively. It's in beta stage and may not be stable. if you have any issues using the app, please let us know.
+
+### Posts to help you get started
+- [Installing AndroidIDE](https://telegra.ph/How-to-install-AndroidIDE-09-11)  
+  - Author: [Marvin Stelter](https://github.com/MarvinStelter)
+- [Create you first project](https://itsaky.github.io/2021/09/12/create-your-first-project-in-androidIDE/)  
+  - Author: [Akash Yadav](https://github.com/itsaky)
 
 ### Developers
 - Akash Yadav ([**@itsaky**](https://github.com/itsaky))
