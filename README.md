@@ -26,6 +26,7 @@ More features will be implemented as we continue to develop this app.
 - [ ] Asset Studio (Drawable & Icon Maker)
 - [ ] Git
 - [x] Terminal
+- [x] Custom environment variables (for Build & Terminal)
 - [ ] SDK Manager
 
 The app is still being developed actively. It's in beta stage and may not be stable. if you have any issues using the app, please let us know.
